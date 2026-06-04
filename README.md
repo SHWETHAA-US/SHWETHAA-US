@@ -1,16 +1,13 @@
 ## Hi, I'm Shwethaa U S
-Software Engineer building AI-powered productivity tools.  
-Currently working on **GoalStormer** — an intelligent platform that transforms
-ambitions into structured, actionable roadmaps with personalized guidance.
+Software Engineer building AI-powered assistive technology.
 
+Currently working on VisionAssist — a real-time object detection & OCR app helping visually impaired users navigate the world.
 ### 🔭 What I'm building
 - **GoalStormer** — AI-powered platform that converts ambitions into structured
   roadmaps, tracks progress, and delivers intelligent planning & personalized
   guidance to help users achieve long-term goals
 
-- **VisionAssist** — Android app using Google ML Kit for real-time
-
-  object detection, OCR, and speech feedback for visually impaired users
+- **VisionAssist** — Android app using Google ML Kit for real-time object detection, OCR, and speech feedback for visually impaired users
 
 ### 🛠️ Tech stack
 <h3 align="left">Languages and Tools:</h3>
